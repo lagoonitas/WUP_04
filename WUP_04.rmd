@@ -74,3 +74,5 @@ plot(TukeyHSD(model1),las=2)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+We reject the Null hypothesis because the P value is too low; P value:0.000236 We found that there are are signicant difference bewteen the wordsum of the LT highschool  and Highschool graduates.The college student all had a higher wordsum then those who only finished higschool.
