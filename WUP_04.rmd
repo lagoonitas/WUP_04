@@ -69,10 +69,10 @@ The p value is too low at 0.000236,so I reject the Null hypothesis , the number 
 par(mar = c(3, 16, 2, 2))
 plot(TukeyHSD(model1),las=2)
 ```
-
+The tukey shows that the LT highschool graduate and highschool graduate have the lowest wordsum .Thus there is a signifcant difference between the word sum for those who continued in school longer . Junior college scored the highest.
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-We reject the Null hypothesis because the P value is too low; P value:0.000236 We found that there are are signicant difference bewteen the wordsum of the LT highschool  and Highschool graduates.The college student all had a higher wordsum then those who only finished higschool.
+We reject the Null hypothesis because the P value is too low; P value:0.000236 We found that there are are signicant difference between the wordsum of the LT high school and High school graduates.The college student all had a higher wordsum then those who only finished highschool.
