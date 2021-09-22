@@ -69,7 +69,9 @@ The p value is too low at 0.000236,so I reject the Null hypothesis , the number 
 par(mar = c(3, 16, 2, 2))
 plot(TukeyHSD(model1),las=2)
 ```
-The tukey shows that the LT highschool graduate and highschool graduate have the lowest wordsum .Thus there is a signifcant difference between the word sum for those who continued in school longer . Junior college scored the highest.
+
+
+The tukey shows that the LT highschool graduate and highschool graduate have the lowest wordsum and they don't even touch 0 like the rest of graduate levels .Thus there is a significant difference between the word sum for those who continued in school longer and those who only finished Lt higschool graduate and highscool graduate . 
 
 # Discussion and Conclusion
 
